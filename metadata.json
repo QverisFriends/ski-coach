@@ -1,0 +1,7 @@
+{
+  "name": "SkiPro AI 滑雪教练",
+  "description": "专业的 AI 驱动滑雪教练，基于深厚的滑雪知识库分析您的滑行姿态，提供技术反馈并追踪您的进步。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
